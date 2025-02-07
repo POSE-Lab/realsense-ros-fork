@@ -1,3 +1,5 @@
+This branch contains a modified CMakeLists file to support running inside a Docker container on ARM architecture (see [this pull request](https://github.com/dnovischi/jetson-tutorials/pull/8/files)).
+
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
